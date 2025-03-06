@@ -1,3 +1,3 @@
 #powered by jcmorales
 
-print "hello world!"
+print ("hello world!")
